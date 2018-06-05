@@ -24,9 +24,9 @@
 	<preference name="permissions" value="INTERNET" />
 	
 	<!-- Para acceder a páginas de Internet -->
-	<allow-intent href="https://*/*/*/*/*"/>
+	<allow-intent href="https://*/*"/>
 	<allow origin="https://*/*/*/*/*/*"/>
-	<allow-intent href="https://*/*/*/*/*"/>
+	<allow-intent href="https://*/*"/>
 	<allow origin="https://*/*/*/*/*/*"/>
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	
